@@ -12,6 +12,6 @@ This project in C# is user-friendly for users to submit a MapReduce task to Hado
 
 ## Screenshot
 
-![](images/tool_ui.png =100x200)
+<img src='images/tool_ui.png' width='50%'>
 
 
